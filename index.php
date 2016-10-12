@@ -1,3 +1,3 @@
 <?php
-    echo exec("cmd");
+    echo "Hello HEROKU"
 ?>
